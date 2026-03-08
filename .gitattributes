@@ -1,0 +1,56 @@
+##########
+# Line endings
+##########
+
+# Use LF for all text files in repo and working tree
+* text eol=lf
+
+##########
+# Language-specific diff settings
+##########
+
+# C / C++
+*.c     diff=cpp
+*.h     diff=cpp
+*.hpp   diff=cpp
+*.hh    diff=cpp
+*.hxx   diff=cpp
+*.cpp   diff=cpp
+*.cc    diff=cpp
+*.cxx   diff=cpp
+*.inl   diff=cpp
+*.ipp   diff=cpp
+
+##########
+# Text files
+##########
+
+*.md        text
+*.txt       text
+*.json      text
+*.yml       text
+*.yaml      text
+*.cmake     text
+CMakeLists.txt text
+.gitignore      text
+.gitattributes  text
+LICENSE         text
+
+##########
+# Binary files
+##########
+
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+*.7z    binary
+*.exe   binary
+*.dll   binary
+*.so    binary
+*.dylib binary
+*.a     binary
+*.lib   binary
