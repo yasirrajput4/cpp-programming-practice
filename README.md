@@ -11,21 +11,10 @@ A collection of C++ practice programs covering patterns, algorithms, calculators
 
 ### Clone the repository
 
-Using **HTTPS**:
-
 ```bash
-git clone https://github.com/your-username/cpp-programming-practice.git
+git clone <your-repo-url>
 cd cpp-programming-practice
 ```
-
-Using **SSH**:
-
-```bash
-git clone git@github.com:your-username/cpp-programming-practice.git
-cd cpp-programming-practice
-```
-
-Replace `your-username` with your actual GitHub username.
 
 ## Project Structure
 
