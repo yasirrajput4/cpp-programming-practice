@@ -12,7 +12,7 @@ A collection of C++ practice programs covering patterns, algorithms, calculators
 ### Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yasirrajput4/cpp-programming-practice.git
 cd cpp-programming-practice
 ```
 
@@ -35,18 +35,18 @@ cpp-programming-practice/
 
 ### Patterns (10 programs)
 
-| File                   | Description               |
-| ---------------------- | ------------------------- |
-| `alphabet-pattern.cpp` | Alphabet pattern printing |
-| `complex-pattern.cpp`  | Complex pattern designs   |
-| `dabangg.cpp`          | Dabangg pattern           |
-| `diamond.cpp`          | Diamond pattern           |
-| `diamond-star.cpp`     | Diamond star pattern      |
-| `num-triangle.cpp`     | Number triangle pattern   |
-| `pascal-triangle.cpp`  | Pascal's triangle         |
-| `pyramid.cpp`          | Pyramid pattern           |
-| `star-pattern.cpp`     | Star pattern              |
-| `star-triangle.cpp`    | Star triangle pattern     |
+| File                      | Description                  |
+| ------------------------- | ---------------------------- |
+| `alphabet-pattern.cpp`    | Alphabet pattern printing    |
+| `complex-pattern.cpp`     | Complex pattern designs      |
+| `number-star-pattern.cpp` | Number star pattern printing |
+| `diamond.cpp`             | Diamond pattern              |
+| `diamond-star.cpp`        | Diamond star pattern         |
+| `num-triangle.cpp`        | Number triangle pattern      |
+| `pascal-triangle.cpp`     | Pascal's triangle            |
+| `pyramid.cpp`             | Pyramid pattern              |
+| `star-pattern.cpp`        | Star pattern                 |
+| `star-triangle.cpp`       | Star triangle pattern        |
 
 ### Algorithms (3 programs)
 
@@ -85,26 +85,7 @@ Each `.cpp` file is a standalone program. Compile and run individually:
 # Example: Compile and run fibonacci
 g++ src/algorithms/fibonacci.cpp -o fibonacci
 ./fibonacci   # Linux/macOS
-# fibonacci.exe   # Windows
-```
-
-**Windows (PowerShell/CMD):**
-
-```powershell
-g++ src/algorithms/fibonacci.cpp -o fibonacci.exe
-.\fibonacci.exe
-```
-
-### Git and Line Endings
-
-This project includes a `.gitattributes` configuration that standardizes **LF** line endings for text files.
-This keeps the codebase consistent across **Windows**, **Linux**, and **macOS**, and helps reduce `CRLF ↔ LF` warnings when running `git add`.
-
-If you are on Windows and still see line‑ending messages, you can optionally configure Git globally:
-
-```bash
-git config --global core.autocrlf false
-git config --global core.eol lf
+fibonacci.exe   # Windows
 ```
 
 ---
@@ -120,3 +101,5 @@ Contributions are welcome! Feel free to:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
