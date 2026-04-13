@@ -50,32 +50,32 @@ cpp-programming-practice/
 
 ### Algorithms (3 programs)
 
-| File                                | Description                   |
-| ----------------------------------- | ----------------------------- |
-| `bubble-sort.cpp`                   | Bubble sort implementation    |
-| `fibonacci.cpp`                     | Fibonacci sequence            |
-| `selection-sort-implementation.cpp` | Selection sort implementation |
+| File                 | Description                   |
+| -------------------- | ----------------------------- |
+| `bubble-sort.cpp`    | Bubble sort implementation    |
+| `fibonacci.cpp`      | Fibonacci sequence            |
+| `selection-sort.cpp` | Selection sort implementation |
 
 ### Calculators (5 programs)
 
-| File                         | Description                 |
-| ---------------------------- | --------------------------- |
-| `arithmetic-calc.cpp`        | Basic arithmetic calculator |
-| `grade-calc.cpp`             | Grade calculator            |
-| `permutation-calculator.cpp` | Permutation calculator      |
-| `power-calculator.cpp`       | Power/exponent calculator   |
-| `profit-loss-calculator.cpp` | Profit/Loss calculator      |
+| File                   | Description                 |
+| ---------------------- | --------------------------- |
+| `arithmetic-calc.cpp`  | Basic arithmetic calculator |
+| `grade-calc.cpp`       | Grade calculator            |
+| `permutation-calc.cpp` | Permutation calculator      |
+| `power-calc.cpp`       | Power/exponent calculator   |
+| `profit-loss-calc.cpp` | Profit/Loss calculator      |
 
 ### Miscellaneous (6 programs)
 
-| File                       | Description            |
-| -------------------------- | ---------------------- |
-| `array-reverse-print.cpp`  | Reverse array printing |
-| `countdown.cpp`            | Countdown timer        |
-| `even-digit-sum.cpp`       | Even digit sum         |
-| `number-reverse-sum.cpp`   | Number reverse and sum |
-| `prime-number-checker.cpp` | Prime number checker   |
-| `quiz.cpp`                 | Quiz program           |
+| File                      | Description            |
+| ------------------------- | ---------------------- |
+| `array-reverse-print.cpp` | Reverse array printing |
+| `countdown.cpp`           | Countdown timer        |
+| `even-digit-sum.cpp`      | Even digit sum         |
+| `number-reverse-sum.cpp`  | Number reverse and sum |
+| `prime-number-check.cpp`  | Prime number checker   |
+| `quiz.cpp`                | Quiz program           |
 
 ## Building & Running
 
