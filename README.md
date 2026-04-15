@@ -20,7 +20,7 @@ cd cpp-programming-practice
 
 ```
 cpp-programming-practice/
-├── src/
+├── src/               # All C++ source files
 │   ├── patterns/      # Pattern printing programs
 │   ├── algorithms/    # Sorting and algorithmic implementations
 │   ├── calculators/   # Calculator and utility programs
